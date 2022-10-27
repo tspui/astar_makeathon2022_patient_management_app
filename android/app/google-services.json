@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015399295909",
+    "project_id": "x-physio",
+    "storage_bucket": "x-physio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015399295909:android:2a77bd21ae488a334b164c",
+        "android_client_info": {
+          "package_name": "com.example.astar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015399295909-rdooatjlargjj7dhrkkfe77a6jn5acj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6iMCBIPevdkt_-3SLqwkQfPLhL0w_IZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015399295909-rdooatjlargjj7dhrkkfe77a6jn5acj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
